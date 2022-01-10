@@ -1,2 +1,1 @@
-# CloudBudget 
-[CloudBudget]{https://tattybubut.github.io/CloudBudget/}
+# CloudBudget [link here...](https://tattybubut.github.io/CloudBudget/)
