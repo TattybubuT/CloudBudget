@@ -44,7 +44,7 @@ body {
         rgba(213, 32, 71, 0.8) 0%,
         rgba(238, 61, 27, 0.8) 100%
         ),
-        url(/images/top-bg.jpg);
+        url(../images/top-bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; 
@@ -218,7 +218,7 @@ body {
     position: absolute;
     top: 157px;
     width: 293px;
-    margin-bottom: 250px;
+    margin-bottom: 1000px;
     padding: 33px 32px;
     text-align: center;
     color: #101010;
